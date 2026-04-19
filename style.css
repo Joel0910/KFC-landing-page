@@ -273,3 +273,8 @@ header {
     margin-top: 40px;
   }
 }
+
+.slides {
+  opacity: 0;
+  transform: translateY(80px);
+}
